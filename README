@@ -1,0 +1,11 @@
+A simple script to help people get more options compiled into vim on their Mac.
+
+run
+`./install.sh ruby`
+for only adding ruby support
+
+and run just
+`./install.sh`
+to install ruby, c, python, and perl support also
+
+This script requires you to have mercurial installed already and install perl support requires an upgrade to libiconv (the script will do this for you)
