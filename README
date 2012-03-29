@@ -8,4 +8,5 @@ and run just
 `./install.sh`
 to install ruby, c, python, and perl support also
 
-This script requires you to have mercurial installed already and install perl support requires an upgrade to libiconv (the script will do this for you)
+This script requires you to have mercurial installed already.
+Installing perl support requires an upgrade to libiconv (the script will do this for you)
